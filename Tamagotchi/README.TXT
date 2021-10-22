@@ -1,12 +1,8 @@
 ----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
+Trabalho simples da faculdade em Java. A missão é a criação de um animal
+virtual que funcionava como um Tamagotchi:
 ------------------------------------------------------------------------
 
-TÍTULO DO PROJETO:
-OBJETIVO DO PROJETO:
-VERSÃO ou DATA:
-COMO INICIAR O PROJETO:
-AUTORES:
-INSTRUÇÕES PARA O USUÁRIO:
+TÍTULO DO PROJETO: Tamagotchi
+OBJETIVO DO PROJETO: Criar um projeto simples de um animal virtual
+AUTORES: Guilherme Costa Tarrasconi
