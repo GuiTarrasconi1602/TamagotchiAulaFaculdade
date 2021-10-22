@@ -1,6 +1,7 @@
 ----------------------------------------------------------------------------
-Trabalho simples da faculdade em Java. A missão é a criação de um animal
-virtual que funcionava como um Tamagotchi:
+Trabalho simples da faculdade em Java para testar a lógica de programação 
+na linguagem. A missão é a criação de um animal virtual que 
+funcionava como um Tamagotchi:
 ------------------------------------------------------------------------
 
 TÍTULO DO PROJETO: Tamagotchi
